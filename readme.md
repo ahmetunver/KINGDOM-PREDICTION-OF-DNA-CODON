@@ -8,7 +8,7 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![License](https://img.shields.io/badge/Lisans-MIT-green?style=flat-square)](LICENSE)
-[![Jupyter Notebook](https://img.shields.io/badge/Dil-Jupyter%20Notebook-100%25-orange?style=flat-square)](https://github.com/ahmetunver/KINGDOM-PREDICTION-OF-DNA-CODON)
+
 
 *DNA kodon frekanslarından biyolojik krallıkları tahmin eden makine öğrenimi sistemi*
 
